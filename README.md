@@ -83,10 +83,10 @@ Metric derivation and transformation
 
 Access the Dashboard: Link to Tableau Public Dashboard: 
 https://public.tableau.com/views/RevenueAnalysis_17620269283190/RevenueAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
-Select Time Period: Use the date filter to focus on specific time ranges
-Apply Segments: Filter by age group, language, device, or game name
-Analyze Trends: Review MRR components and identify growth drivers
-Export Insights: Download data or share visualizations with stakeholders
+Select Time Period: Use the date filter to focus on specific time ranges  
+Apply Segments: Filter by age group, language, device, or game name  
+Analyze Trends: Review MRR components and identify growth drivers  
+Export Insights: Download data or share visualizations with stakeholders  
 
 ## 📊 Outcome
 This dashboard enables quick identification of critical periods, trends, and user segments influencing revenue performance. It demonstrates proficiency in:
@@ -101,9 +101,9 @@ The project provides actionable insights for product managers to make informed d
 ## 📁 Project Structure
 Revenue-Metrics-Dashboard/  
 ├── screenshots/          # Dashboard screenshots  
-├── sql/                  # SQL queries for data extraction  
-├── data/                 # Sample data files (if applicable)  
-└── README.md            # Project documentation  
+└── README.md            # Project documentation   
+├── data/                 # Sample data files   
+├── sql/                  # SQL query for data extraction    
 ## 📫 Contact
 For questions or collaboration opportunities, please reach out via 
 
